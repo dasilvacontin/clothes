@@ -1,6 +1,6 @@
 {
   "name": "@dasilvacontin/clothes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool for tracking cloth usage.",
   "keywords": [
     "clothes",
@@ -10,7 +10,9 @@
     "database",
     "db"
   ],
-  "files": [ "bin" ],
+  "files": [
+    "bin"
+  ],
   "main": "bin/clothes.js",
   "bin": {
     "clothes": "./bin/clothes.js"
